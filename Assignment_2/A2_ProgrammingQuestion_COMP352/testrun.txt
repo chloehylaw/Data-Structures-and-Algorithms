@@ -1,0 +1,106 @@
+----------------------N=10--------------------------
+Adding @ random: 
+linked list: 524700ns
+array list: 18000ns
+
+Adding @ beginning: 
+linked list: 4800ns
+array list: 4800ns
+
+Adding @ end: 
+linked list: 9800ns
+array list: 5400ns
+
+Removing @ beginning: 
+linked list: 7900ns
+array list: 5500ns
+
+Removing @ random: 
+linked list: 5800ns
+array list: 4500ns
+
+Removing @ end: 
+linked list: 10500ns
+array list: 5000ns
+
+Removing @ by value: 
+linked list: 6200ns
+array list: 1500ns
+----------------------N=100--------------------------
+Adding @ random: 
+linked list: 186900ns
+array list: 6700ns
+
+Adding @ beginning: 
+linked list: 3000ns
+array list: 3800ns
+
+Adding @ end: 
+linked list: 3200ns
+array list: 3300ns
+
+Removing @ beginning: 
+linked list: 1400ns
+array list: 1400ns
+
+Removing @ random: 
+linked list: 4200ns
+array list: 3000ns
+
+Removing @ end: 
+
+Removing @ by value: 
+linked list: 1500ns
+array list: 1200ns
+----------------------N=1000--------------------------
+Adding @ random: 
+linked list: 3900ns
+array list: 3500ns
+
+Adding @ beginning: 
+linked list: 2400ns
+array list: 2700ns
+
+Adding @ end: 
+linked list: 2600ns
+array list: 2600ns
+
+Removing @ beginning: 
+linked list: 1000ns
+array list: 1100ns
+
+Removing @ random: 
+linked list: 2600ns
+array list: 2100ns
+
+Removing @ end: 
+
+Removing @ by value: 
+linked list: 1000ns
+array list: 800ns
+----------------------N=10000--------------------------
+Adding @ random: 
+linked list: 3100ns
+array list: 3200ns
+
+Adding @ beginning: 
+linked list: 2200ns
+array list: 2900ns
+
+Adding @ end: 
+linked list: 2400ns
+array list: 2600ns
+
+Removing @ beginning: 
+linked list: 1000ns
+array list: 1100ns
+
+Removing @ random: 
+linked list: 2400ns
+array list: 19400ns
+
+Removing @ end: 
+
+Removing @ by value: 
+linked list: 1000ns
+array list: 900ns
